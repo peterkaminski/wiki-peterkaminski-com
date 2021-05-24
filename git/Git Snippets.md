@@ -17,7 +17,7 @@ Remove a whole directory:
 git rm -r --cached <folder>
 ```
 
-WARNING: While this will not remove the physical file from your local machines, it will remove the files from other developers machines on next `git pull`.
+WARNING: While this will not remove the physical file from your local machine, it will remove the files from other developers machines on next `git pull`.
 
 ## Change Upstream URL
 
